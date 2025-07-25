@@ -33,6 +33,7 @@ export const HeroSection = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
+              {" "}
               Download Resume
             </a>
 
